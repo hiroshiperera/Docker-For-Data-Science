@@ -1,0 +1,1 @@
+This is a docker related simple hello world project
